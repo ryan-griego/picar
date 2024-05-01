@@ -30,3 +30,4 @@ To get started with PiCar-X, follow these steps:
 ![IMG_8336](https://github.com/ryan-griego/picar/assets/5881314/8a205cbd-160d-4fb6-b245-82bd956211a5)
 
 
+![IMG_8351](https://github.com/ryan-griego/picar/assets/5881314/a0476327-11f0-4fea-9b9b-a0f14cc21739)
