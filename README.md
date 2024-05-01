@@ -1,6 +1,7 @@
 # PiCar: AI Self-Driving Robot Kit
 
-![PiCar]([image_url_or_path](https://res.cloudinary.com/dm7y3yvjp/image/upload/v1714579163/IMG_8336_ak2jmz.jpg))
+![IMG_8339](https://github.com/ryan-griego/picar/assets/5881314/043c0329-58f6-4dcc-a8b8-01c49fc826a5)
+
 
 PiCar-X is an AI self-driving robot kit compatible with Raspberry Pi. It includes various modules and features to facilitate a wide range of functionalities, making it suitable for educational purposes, hobby projects, or experimentation.
 
@@ -26,5 +27,6 @@ To get started with PiCar-X, follow these steps:
 5. **Run Examples:** Explore the provided examples and demos to understand the capabilities of PiCar-X.
 6. **Experiment and Develop:** Start experimenting with different functionalities and develop your own projects using PiCar-X.
 
+![IMG_8336](https://github.com/ryan-griego/picar/assets/5881314/8a205cbd-160d-4fb6-b245-82bd956211a5)
 
-![PiCar-X]([Building the car]([https://asset.cloudinary.com/dm7y3yvjp/88d234d59b9ad03382724af77f1bcdc6](https://asset.cloudinary.com/dm7y3yvjp/0a9964c287332b33f63ef13fa8c2d1b8)))
+
